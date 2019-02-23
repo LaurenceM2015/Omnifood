@@ -1,0 +1,23 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Landing page for Omnifood app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass resources/sass/main.scss resources/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurenceM2015/Omnifood.git"
+  },
+  "author": "Laurence Mabilleau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurenceM2015/Omnifood/issues"
+  },
+  "homepage": "https://github.com/LaurenceM2015/Omnifood#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
