@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/LaurenceM2015/Omnifood/issues"
   },
-  "homepage": "https://github.com/LaurenceM2015/Omnifood#readme",
+  "homepage": "https://github.com/LaurenceM2015/Omnifood/",
   "devDependencies": {
     "node-sass": "^4.11.0"
   }
